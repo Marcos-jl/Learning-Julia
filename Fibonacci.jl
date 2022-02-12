@@ -17,4 +17,4 @@ function fibonacci(n)
 end
 
 #Entrada dos dados
-fibonacci(20)
+fibonacci(10)
