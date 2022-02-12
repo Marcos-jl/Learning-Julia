@@ -6,6 +6,8 @@
 
 - Fatorial
 
+- Sequência de Fibonacci
+
   
 
 ##### Sintam-se convidados a interagir e colaborar neste aprendizado. :airplane:
