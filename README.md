@@ -2,7 +2,7 @@
 
 ##### Neste repositório, vou adicionar uma série de minis-projetos em busca do domínio da linguagem de programação.
 
-### Lista de implementações existêntes: 
+###  :fleur_de_lis: Lista de implementações existêntes: 
 
 - Fatorial
 
